@@ -1,3 +1,5 @@
 "Miguel"
 "Oswalsdo"
 "Śérgio"
+"Antonio"
+"Nunes"
