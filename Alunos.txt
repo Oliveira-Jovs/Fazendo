@@ -3,3 +3,16 @@
 "Śérgio"
 "Antonio"
 "Nunes"
+
+Aprovados:
+
+"Miguel"
+"Oswalsdo"
+"Śérgio"
+
+
+Reprovados:
+
+"Śérgio"
+"Antonio"
+"Nunes"
